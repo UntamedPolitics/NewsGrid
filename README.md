@@ -9,5 +9,5 @@ Welcome to the official **bug and feature request repository** for the [NewsGrid
 Note: this repository is for bugs and feature requests only.
 
 [1]: https://news.untamedpolitics.com
-[2]: https://untamedpolitics.com/img/newsdeck_screenshot.png
+[2]: https://untamedpolitics.com/img/newsgrid_screenshot.png
 [3]: https://github.com/UntamedPolitics/NewsGrid/issues/new
